@@ -1,0 +1,12 @@
+[book]
+authors = []
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "book"
+
+
+[output.html]
+additional-js = ["js/highlightjs-line-numbers.js"]
